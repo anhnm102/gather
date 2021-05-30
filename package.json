@@ -1,0 +1,15 @@
+{
+  "name": "gicungduoc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@ethersproject/providers": "^5.2.0",
+    "@pancakeswap-libs/sdk": "^1.0.1",
+    "ethers": "^5.2.0"
+  }
+}
